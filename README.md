@@ -3,5 +3,7 @@ Spring boot based web application which monitors server logs and display on brow
 Steps to run server:
 
 Go inside LogTail folder and execute below commands
+
 .\mvnw.cmd clean
+
 .\mvnw spring-boot:run
